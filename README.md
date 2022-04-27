@@ -1,4 +1,4 @@
-# Задача Бесконечная итерация
+# Pattern_3_1_unlimited_iterations
 Тема: "Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility"
 # Задача Бесконечная итерация
 
